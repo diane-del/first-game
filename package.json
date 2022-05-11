@@ -1,0 +1,11 @@
+{
+  "name": "game",
+  "version": "1.0.0",
+  "description": "form my game",
+  "main": "index.js",
+  "scripts": {
+    "start": "index.js"
+  },
+  "author": "diane",
+  "license": "ISC"
+}
